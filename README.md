@@ -65,6 +65,12 @@ A linguagem utilizada foi:
 
 *Nenhum framework foi utilizado.*
 
+## Soluções digitais
+
+*Data Science*: Ferramenta seria utilizada para coletar e tratar os dados das solicitações, disponibilidade, viabilidade, local, tempo estimado e grau de prioridade.
+
+*Cloud Computing*: Ferramenta para centralizar os dados na núvem, sendo necessário apenas um computador simples e acesso à internet nas plataformas.
+
 ## Time
 ![image](https://user-images.githubusercontent.com/87051404/204063603-fd78c558-2176-4d3a-9502-8202a9916a23.png)
 
